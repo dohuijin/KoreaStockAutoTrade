@@ -1,1 +1,1 @@
-# KoreaStockAutoTrade
+# 한국투자증권 API 주식 자동 매매 시스템
